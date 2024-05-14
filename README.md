@@ -5,6 +5,7 @@
 O projeto Help-Code é uma plataforma online desenvolvida com o propósito de fornecer dicas valiosas de programação, utilizando tecnologias como PHP, HTML e CSS. Inspirado pelo renomado professor Nelio Alves e como parte do aprendizado do desenvolvimento web, este projeto visa aplicar os conhecimentos adquiridos e consolidar habilidades em programação web moderna.
 
 <b> Observação: A página principal do projeto se encontra visível no link : https://miguel2004silva.github.io/code-help/ </b>
+<b> Observação: o WebSite contém suporte para mobile, sendo adaptado para a versão utilizada no navegador mobile. </b>
 
 # Tecnologias utilizadas:
 
